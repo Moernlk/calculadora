@@ -4,8 +4,8 @@
 - Criada inteiramente com JavaScript.
 - Projeto Pessoal.
 - Manipulação de Array, chegando ao resultado
-  com um processo sequencial de resoluções da equação
-  24/02/2025:
+  com um processo sequencial de resoluções da equação.
+24/02/2025:
 - Criação de banco de dados e conexão com SQLSERVEREXPRESS.
 ![alt text](./image.png)
 
