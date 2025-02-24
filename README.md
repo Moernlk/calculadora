@@ -7,6 +7,7 @@
   com um processo sequencial de resoluções da equação.
 24/02/2025:
 - Criação de banco de dados e conexão com SQLSERVEREXPRESS.
+  
 ![alt text](./image.png)
 
 A fazer:
