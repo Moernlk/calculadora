@@ -1,0 +1,7 @@
+.env
+node_modules/
+*.log
+.vscode/
+.idea/
+.DS_Store
+npm-debug.log
